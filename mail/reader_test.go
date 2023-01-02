@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/emersion/go-message/mail"
+	"github.com/k8scat/go-message/mail"
 )
 
 func ExampleReader() {

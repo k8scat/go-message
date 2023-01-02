@@ -3,7 +3,7 @@ package message
 import (
 	"io"
 
-	"github.com/emersion/go-message/textproto"
+	"github.com/k8scat/go-message/textproto"
 )
 
 // MultipartReader is an iterator over parts in a MIME multipart body.

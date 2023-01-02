@@ -6,7 +6,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/emersion/go-message/textproto"
+	"github.com/k8scat/go-message/textproto"
 )
 
 // Writer writes message entities.

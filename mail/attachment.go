@@ -1,7 +1,7 @@
 package mail
 
 import (
-	"github.com/emersion/go-message"
+	"github.com/k8scat/go-message"
 )
 
 // An AttachmentHeader represents an attachment's header.

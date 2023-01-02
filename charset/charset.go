@@ -9,7 +9,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/emersion/go-message"
+	"github.com/k8scat/go-message"
 	"golang.org/x/text/encoding"
 	"golang.org/x/text/encoding/charmap"
 	"golang.org/x/text/encoding/htmlindex"

@@ -4,7 +4,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/emersion/go-message"
+	"github.com/k8scat/go-message"
 )
 
 func initInlineContentTransferEncoding(h *message.Header) {

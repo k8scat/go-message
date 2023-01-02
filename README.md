@@ -1,7 +1,6 @@
 # go-message
 
-[![godocs.io](https://godocs.io/github.com/emersion/go-message?status.svg)](https://godocs.io/github.com/emersion/go-message)
-[![builds.sr.ht status](https://builds.sr.ht/~emersion/go-message/commits.svg)](https://builds.sr.ht/~emersion/go-message/commits?)
+[![godocs.io](https://godocs.io/github.com/k8scat/go-message?status.svg)](https://godocs.io/github.com/k8scat/go-message)
 
 A Go library for the Internet Message Format. It implements:
 
@@ -13,11 +12,11 @@ A Go library for the Internet Message Format. It implements:
 
 * Streaming API
 * Automatic encoding and charset handling (to decode all charsets, add
-  `import _ "github.com/emersion/go-message/charset"` to your application)
-* A [`mail`](https://godocs.io/github.com/emersion/go-message/mail) subpackage
+  `import _ "github.com/k8scat/go-message/charset"` to your application)
+* A [`mail`](https://godocs.io/github.com/k8scat/go-message/mail) subpackage
   to read and write mail messages
 * DKIM-friendly
-* A [`textproto`](https://godocs.io/github.com/emersion/go-message/textproto)
+* A [`textproto`](https://godocs.io/github.com/k8scat/go-message/textproto)
   subpackage that just implements the wire format
 
 ## License
